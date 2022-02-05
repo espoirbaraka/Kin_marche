@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulb-free-responsive-theme.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulb-free-responsive-theme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulb-free-responsive-theme.myshopify.com/collections/bulb-free-demo-collection-3.atom"/>
+  <title>Bulb - Responsive eCommerce Electric Shop Free Shopify Theme</title>
+  <updated>2016-07-31T07:18:27-04:00</updated>
+  <author>
+    <name>Bulb - Responsive eCommerce Electric Shop Free Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+    <published>2016-07-31T07:18:27-04:00</published>
+    <updated>2016-07-31T07:18:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulb-free-responsive-theme.myshopify.com/products/free-demo-product-name-14"/>
+    <title>Free demo product name 14</title>
+    <s:type>Free Themes</s:type>
+    <s:vendor>ThemeTidy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1412/7610/products/themetidy-Bulb-Responsive-eCommerce-Electric-Shop-Free-Shopify-Theme-product-image-6_37d22104-fe60-4b5f-b8ac-8af351c4989a.jpg?v=1469964886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ThemeTidy<br>
+        <strong>Type: </strong>Free Themes<br>
+        <strong>Price: </strong>
+            240.00 - 260.00
+            <a href="https://bulb-free-responsive-theme.myshopify.com/products/free-demo-product-name-14">(80 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Why choose <a href="https://www.themetidy.com/">ThemeTidy</a>
+</h4>
+<p>We just don't build your website we build your business. We Building Your Business with Strong Branding. Our helpful support team is always on standby to help you with any questions or issues. We have a great team to build your business.</p>
+<p> </p>
+<h4><span>Latest &amp; most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a></span></h4>
+<p>The best reviewed and most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a> ever. Our best selling <a href="https://www.themetidy.com/">Free Shopify Themes</a>. Ready To Take Your <a href="https://www.themetidy.com/">Free Shopify Themes</a> Next Level? Give Your Site A Beautiful Template Design To Gather More Visitors. Check <a href="https://www.themetidy.com/">ThemeTidy</a> awesome <a href="https://www.themetidy.com/">Free Shopify Themes</a> Collections.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">Paira Shopify</a> theme Framework</span></h4>
+<p>Paira Is A Modern, User-Friendly, Highly Customizable And Easy To Integrate Solution To Build Your Next Shopify Website Based On Your Idea. Paira Is A Highly Functional And Advance Theme Option <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>. Why Paira Is The Best &amp; Most Popular <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Because <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Have Most Advance Feature List, Coding Simplicity, Unique Option, Easy To Integrate Any Design, Simple And Advance Framework Architecture Design. After Lot Of Research, <a href="https://www.themetidy.com/">ThemeTidy</a> Team Finally Release <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">ThemeTidy</a> customer services</span></h4>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> installation services &amp; setup</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> design services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> development services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> 24/7 customer support</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best free shopify templates</s:tag>
+    <s:tag>Free shopify apps</s:tag>
+    <s:tag>Free shopify themes</s:tag>
+    <s:tag>Free templates</s:tag>
+    <s:tag>Free themes</s:tag>
+    <s:tag>Shopify theme framework</s:tag>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / red / flax</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / red / wool</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / red / ramie</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / red / silk</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / green / flax</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / green / wool</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / green / ramie</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / green / silk</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / blue / flax</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / blue / wool</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / blue / ramie</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / blue / silk</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / grey / flax</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / grey / wool</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / grey / ramie</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / grey / silk</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / yellow / flax</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / yellow / wool</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / yellow / ramie</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>s / yellow / silk</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / red / flax</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / red / wool</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / red / ramie</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / red / silk</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / green / flax</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / green / wool</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / green / ramie</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / green / silk</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / blue / flax</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / blue / wool</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / blue / ramie</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / blue / silk</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / grey / flax</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / grey / wool</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / grey / ramie</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / grey / silk</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / yellow / flax</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / yellow / wool</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / yellow / ramie</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>m / yellow / silk</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / red / flax</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / red / wool</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / red / ramie</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / red / silk</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / green / flax</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / green / wool</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / green / ramie</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / green / silk</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / blue / flax</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / blue / wool</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / blue / ramie</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / blue / silk</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / grey / flax</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / grey / wool</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / grey / ramie</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / grey / silk</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / yellow / flax</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / yellow / wool</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / yellow / ramie</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>l / yellow / silk</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / red / flax</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / red / wool</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / red / ramie</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / red / silk</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / green / flax</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / green / wool</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / green / ramie</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / green / silk</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / blue / flax</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / blue / wool</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / blue / ramie</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / blue / silk</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / grey / flax</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / grey / wool</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / grey / ramie</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / grey / silk</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / yellow / flax</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / yellow / wool</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / yellow / ramie</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000515</id>
+      <title>xl / yellow / silk</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000259</id>
+    <published>2016-07-31T07:18:25-04:00</published>
+    <updated>2016-07-31T07:18:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulb-free-responsive-theme.myshopify.com/products/free-demo-product-name-4"/>
+    <title>Free demo product name 4</title>
+    <s:type>Free Themes</s:type>
+    <s:vendor>ThemeTidy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1412/7610/products/themetidy-Bulb-Responsive-eCommerce-Electric-Shop-Free-Shopify-Theme-product-image-9.jpg?v=1469964908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ThemeTidy<br>
+        <strong>Type: </strong>Free Themes<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Why choose <a href="https://www.themetidy.com/">ThemeTidy</a>
+</h4>
+<p>We just don't build your website we build your business. We Building Your Business with Strong Branding. Our helpful support team is always on standby to help you with any questions or issues. We have a great team to build your business.</p>
+<p> </p>
+<h4><span>Latest &amp; most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a></span></h4>
+<p>The best reviewed and most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a> ever. Our best selling <a href="https://www.themetidy.com/">Free Shopify Themes</a>. Ready To Take Your <a href="https://www.themetidy.com/">Free Shopify Themes</a> Next Level? Give Your Site A Beautiful Template Design To Gather More Visitors. Check <a href="https://www.themetidy.com/">ThemeTidy</a> awesome <a href="https://www.themetidy.com/">Free Shopify Themes</a> Collections.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">Paira Shopify</a> theme Framework</span></h4>
+<p>Paira Is A Modern, User-Friendly, Highly Customizable And Easy To Integrate Solution To Build Your Next Shopify Website Based On Your Idea. Paira Is A Highly Functional And Advance Theme Option <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>. Why Paira Is The Best &amp; Most Popular <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Because <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Have Most Advance Feature List, Coding Simplicity, Unique Option, Easy To Integrate Any Design, Simple And Advance Framework Architecture Design. After Lot Of Research, <a href="https://www.themetidy.com/">ThemeTidy</a> Team Finally Release <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">ThemeTidy</a> customer services</span></h4>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> installation services &amp; setup</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> design services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> development services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> 24/7 customer support</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free shopify apps</s:tag>
+    <s:tag>Free shopify themes</s:tag>
+    <s:tag>Free templates</s:tag>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000259</id>
+      <title>green</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000131</id>
+    <published>2016-07-31T07:18:24-04:00</published>
+    <updated>2016-07-31T07:18:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulb-free-responsive-theme.myshopify.com/products/free-demo-product-name-3"/>
+    <title>Free demo product name 3</title>
+    <s:type>Free Themes</s:type>
+    <s:vendor>ThemeTidy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1412/7610/products/themetidy-Bulb-Responsive-eCommerce-Electric-Shop-Free-Shopify-Theme-product-image-8_216d2238-89a4-444a-aea1-57aee6fb3e91.jpg?v=1469964893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ThemeTidy<br>
+        <strong>Type: </strong>Free Themes<br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Why choose <a href="https://www.themetidy.com/">ThemeTidy</a>
+</h4>
+<p>We just don't build your website we build your business. We Building Your Business with Strong Branding. Our helpful support team is always on standby to help you with any questions or issues. We have a great team to build your business.</p>
+<p> </p>
+<h4><span>Latest &amp; most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a></span></h4>
+<p>The best reviewed and most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a> ever. Our best selling <a href="https://www.themetidy.com/">Free Shopify Themes</a>. Ready To Take Your <a href="https://www.themetidy.com/">Free Shopify Themes</a> Next Level? Give Your Site A Beautiful Template Design To Gather More Visitors. Check <a href="https://www.themetidy.com/">ThemeTidy</a> awesome <a href="https://www.themetidy.com/">Free Shopify Themes</a> Collections.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">Paira Shopify</a> theme Framework</span></h4>
+<p>Paira Is A Modern, User-Friendly, Highly Customizable And Easy To Integrate Solution To Build Your Next Shopify Website Based On Your Idea. Paira Is A Highly Functional And Advance Theme Option <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>. Why Paira Is The Best &amp; Most Popular <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Because <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Have Most Advance Feature List, Coding Simplicity, Unique Option, Easy To Integrate Any Design, Simple And Advance Framework Architecture Design. After Lot Of Research, <a href="https://www.themetidy.com/">ThemeTidy</a> Team Finally Release <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">ThemeTidy</a> customer services</span></h4>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> installation services &amp; setup</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> design services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> development services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> 24/7 customer support</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free templates</s:tag>
+    <s:tag>Free themes</s:tag>
+    <s:tag>Paire shopify framework</s:tag>
+    <s:tag>Shopify theme framework</s:tag>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7775000131</id>
+      <title>pink</title>
+      <s:price currency="USD">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>26000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999683</id>
+    <published>2016-07-31T07:18:20-04:00</published>
+    <updated>2016-07-31T07:18:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulb-free-responsive-theme.myshopify.com/products/free-demo-product-name-1"/>
+    <title>Free demo product name 1</title>
+    <s:type>Free Themes</s:type>
+    <s:vendor>ThemeTidy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1412/7610/products/themetidy-Bulb-Responsive-eCommerce-Electric-Shop-Free-Shopify-Theme-product-image-1.jpg?v=1469964851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ThemeTidy<br>
+        <strong>Type: </strong>Free Themes<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Why choose <a href="https://www.themetidy.com/">ThemeTidy</a>
+</h4>
+<p>We just don't build your website we build your business. We Building Your Business with Strong Branding. Our helpful support team is always on standby to help you with any questions or issues. We have a great team to build your business.</p>
+<p> </p>
+<h4><span>Latest &amp; most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a></span></h4>
+<p>The best reviewed and most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a> ever. Our best selling <a href="https://www.themetidy.com/">Free Shopify Themes</a>. Ready To Take Your <a href="https://www.themetidy.com/">Free Shopify Themes</a> Next Level? Give Your Site A Beautiful Template Design To Gather More Visitors. Check <a href="https://www.themetidy.com/">ThemeTidy</a> awesome <a href="https://www.themetidy.com/">Free Shopify Themes</a> Collections.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">Paira Shopify</a> theme Framework</span></h4>
+<p>Paira Is A Modern, User-Friendly, Highly Customizable And Easy To Integrate Solution To Build Your Next Shopify Website Based On Your Idea. Paira Is A Highly Functional And Advance Theme Option <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>. Why Paira Is The Best &amp; Most Popular <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Because <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Have Most Advance Feature List, Coding Simplicity, Unique Option, Easy To Integrate Any Design, Simple And Advance Framework Architecture Design. After Lot Of Research, <a href="https://www.themetidy.com/">ThemeTidy</a> Team Finally Release <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">ThemeTidy</a> customer services</span></h4>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> installation services &amp; setup</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> design services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> development services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> 24/7 customer support</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best free shopify templates</s:tag>
+    <s:tag>Best free shopify themes</s:tag>
+    <s:tag>Free shopify apps</s:tag>
+    <s:tag>Free shopify templates</s:tag>
+    <s:tag>Free shopify themes</s:tag>
+    <s:tag>Free templates</s:tag>
+    <s:tag>Free themes</s:tag>
+    <s:tag>Paire shopify framework</s:tag>
+    <s:tag>Shopify theme framework</s:tag>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999683</id>
+      <title>cotton</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+    <published>2016-07-31T07:18:19-04:00</published>
+    <updated>2016-07-31T07:18:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulb-free-responsive-theme.myshopify.com/products/free-demo-product-name-10"/>
+    <title>Free demo product name 10</title>
+    <s:type>Free Themes</s:type>
+    <s:vendor>ThemeTidy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1412/7610/products/themetidy-Bulb-Responsive-eCommerce-Electric-Shop-Free-Shopify-Theme-product-image-2_6392c211-b95f-4d7f-90b3-5e5b12e6780c.jpg?v=1469964856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ThemeTidy<br>
+        <strong>Type: </strong>Free Themes<br>
+        <strong>Price: </strong>
+            70.00 - 110.00
+            <a href="https://bulb-free-responsive-theme.myshopify.com/products/free-demo-product-name-10">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Why choose <a href="https://www.themetidy.com/">ThemeTidy</a>
+</h4>
+<p>We just don't build your website we build your business. We Building Your Business with Strong Branding. Our helpful support team is always on standby to help you with any questions or issues. We have a great team to build your business.</p>
+<p> </p>
+<h4><span>Latest &amp; most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a></span></h4>
+<p>The best reviewed and most popular <a href="https://www.themetidy.com/">Free Shopify Themes</a> ever. Our best selling <a href="https://www.themetidy.com/">Free Shopify Themes</a>. Ready To Take Your <a href="https://www.themetidy.com/">Free Shopify Themes</a> Next Level? Give Your Site A Beautiful Template Design To Gather More Visitors. Check <a href="https://www.themetidy.com/">ThemeTidy</a> awesome <a href="https://www.themetidy.com/">Free Shopify Themes</a> Collections.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">Paira Shopify</a> theme Framework</span></h4>
+<p>Paira Is A Modern, User-Friendly, Highly Customizable And Easy To Integrate Solution To Build Your Next Shopify Website Based On Your Idea. Paira Is A Highly Functional And Advance Theme Option <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>. Why Paira Is The Best &amp; Most Popular <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Because <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a> Have Most Advance Feature List, Coding Simplicity, Unique Option, Easy To Integrate Any Design, Simple And Advance Framework Architecture Design. After Lot Of Research, <a href="https://www.themetidy.com/">ThemeTidy</a> Team Finally Release <a href="https://www.themetidy.com/">Free Paira Shopify Framework</a>.</p>
+<p> </p>
+<h4><span><a href="https://www.themetidy.com/">ThemeTidy</a> customer services</span></h4>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> installation services &amp; setup</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> design services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> development services</span></p>
+<p><span>*** <a href="https://www.themetidy.com/">ThemeTidy</a> 24/7 customer support</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free shopify templates</s:tag>
+    <s:tag>Free shopify themes</s:tag>
+    <s:tag>Free themes</s:tag>
+    <s:tag>Paire shopify framework</s:tag>
+    <s:tag>Shopify theme framework</s:tag>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>s / red / ramie</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>s / green / ramie</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>s / blue / ramie</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>s / grey / ramie</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>s / yellow / ramie</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>m / red / ramie</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>m / green / ramie</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>m / blue / ramie</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>m / grey / ramie</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>m / yellow / ramie</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>l / red / ramie</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>l / green / ramie</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>l / blue / ramie</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>l / grey / ramie</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>l / yellow / ramie</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>xl / red / ramie</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>xl / green / ramie</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>xl / blue / ramie</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>xl / grey / ramie</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulb-free-responsive-theme.myshopify.com/products/7774999619</id>
+      <title>xl / yellow / ramie</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulb-free-responsive-theme.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulb-free-responsive-theme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulb-free-responsive-theme.myshopify.com/collections/bulb-free-demo-collection-7.atom"/>
+  <title>Bulb - Responsive eCommerce Electric Shop Free Shopify Theme</title>
+  <author>
+    <name>Bulb - Responsive eCommerce Electric Shop Free Shopify Theme</name>
+  </author>
+</feed>
