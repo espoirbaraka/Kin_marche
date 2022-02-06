@@ -5,7 +5,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-xs-6 logo-text">
-                            <h2 class="margin-bottom-20"><a href="index.php">OKmarket</a></h2>
+                            <h2 class="margin-bottom-20"><a href="index.php">Kin Marche</a></h2>
 
 
                         </div>
@@ -32,13 +32,25 @@
 
                             <ul class="list-inline margin-bottom-0
                                     pull-right">
-                                <li class="dropdown cart-menu-body
+                                <?php
+                                if (isset($_SESSION['cart'])) {
+                                    $cout = 0;
+                                    foreach($_SESSION['cart'] as $key => $value)
+                                    {
+                                        $cout = $cout + $value['prix'] * $value['quantite'];
+                                    }
+                                ?>
+                                    <li class="dropdown cart-menu-body
                                         paira-cart-menu-body">
-                                    <a href="cart.html" class="padding-bottom-10"><i class="fa fa-shopping-cart"></i>
-                                        <span class="paira-cart-total-price"><span class="money">$0.00</span></span>
-                                        <span class="badge
-                                                paira-cart-item-count">0</span></a>
-                                </li>
+                                        <a href="cart.php" class="padding-bottom-10"><i class="fa fa-shopping-cart"></i>
+                                            <span class="paira-cart-total-price"><span class="money"><?php echo number_format($cout) ?> $</span></span>
+                                            <span class="badge
+                                                paira-cart-item-count"><?php echo count($_SESSION['cart']) ?></span></a>
+                                    </li>
+                                <?php
+                                }
+                                ?>
+
                             </ul>
 
                             <!--=================== Search Form ===================-->

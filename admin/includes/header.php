@@ -4,9 +4,9 @@
     <!-- Logo -->
     <a href="home.php" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>O</b>M</span>
+      <span class="logo-mini"><b>K</b>M</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>OK</b>Market</span>
+      <span class="logo-lg"><b>Kin</b> Marche</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -38,7 +38,7 @@
               <li class="user-footer">
                 
                 <div class="pull-right">
-                  <a href="logout.php" class="btn btn-default btn-flat">Se deconnecter</a>
+                  <a href="../manager/logout.php" class="btn btn-default btn-flat">Se deconnecter</a>
                 </div>
               </li>
             </ul>

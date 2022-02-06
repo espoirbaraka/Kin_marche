@@ -56,7 +56,7 @@
                             <!--=================== Footer Middle Column 1 ===================-->
                             <h4 class="paira-gap-3 margin-clear margin-bottom-20 text-uppercase">A propos</h4>
                             <div>
-                                <p>Nous sommes OKmarket, une société commerciale basée à Goma/Nord-kivu</p>
+                                <p>Nous sommes KIN Marche, une société commerciale basée à Goma/Nord-kivu</p>
                             </div>
                             <div>
                                 <p>Nous vendons toute sorte de produit dont vous pouvez avoir besoin</p>
