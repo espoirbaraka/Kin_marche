@@ -13,7 +13,7 @@ Shopify.routes = Shopify.routes || {};
 Shopify.routes.root = "../index.html";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script id="__st">var __st={"a":14127610,"offset":-18000,"reqid":"541a0ce8-102e-4ce1-bba0-c1b934ffc2dd","pageurl":"bulb-free-responsive-theme.myshopify.com\/account\/login","u":"7a4e9ea5d3e7"};</script>
+<script id="__st">var __st={"a":14127610,"offset":-18000,"reqid":"7a2ca800-68e4-4671-8f14-47cd963029e6","pageurl":"bulb-free-responsive-theme.myshopify.com\/pages\/contact","s":"pages-186000579","u":"41d489006f27","p":"page","rtyp":"page","rid":186000579};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
 <script integrity="sha256-fnL7TRTwbWDFcwa4DcFG8Ozb5OTAlB9PNTe+5NVDFK8=" data-source-attribution="shopify.loadfeatures" defer="defer" src="cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-7e72fb4d14f06d60c57306b80dc146f0ecdbe4e4c0941f4f3537bee4d54314af.js" crossorigin="anonymous"></script>
@@ -37,9 +37,6 @@ Shopify.routes.root = "../index.html";</script>
     <![endif]-->
 
     
-    <script src="cdn.shopify.com/shopifycloud/shopify/assets/themes_support/shopify_common-8ea6ac3faf357236a97f5de749df4da6e8436ca107bc3a4ee805cbf08bc47392.js" type="text/javascript"></script>
-    <script src="cdn.shopify.com/shopifycloud/shopify/assets/themes_support/customer_area-4beccea87758d91106a581ba89341d9b51842f6da79209258c8297239e950343.js" type="text/javascript"></script>
-    
 
     <script>
         window.animationLoading = "cdn.shopify.com/s/files/1/1412/7610/t/17/assets/ajax_loader7c59.gif?v=613806363734481352";
@@ -47,11 +44,11 @@ Shopify.routes.root = "../index.html";</script>
     </script>
 
 <link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 14127610,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "customers/login"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 14127610,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'USD';
-var meta = {"page":{}};
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":186000579}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -346,7 +343,7 @@ for (var attr in meta) {
       })();
     
 
-    window.ShopifyAnalytics.lib.page(null,{});
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":186000579});
 
     var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
     var token = match? match[1]: undefined;

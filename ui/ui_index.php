@@ -6,10 +6,10 @@
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img class="first-slide" src="img/1.jpg" alt="First slide" style="height: 600px; width: 100%;">
+                <img class="first-slide" src="img/2.jpg" alt="First slide" style="height: 600px; width: 100%;">
             </div>
             <div class="item">
-                <img class="second-slide" src="img/2.jpg" alt="Second slide" style="height: 600px; width: 100%;">
+                <img class="second-slide" src="img/1.jpg" alt="Second slide" style="height: 600px; width: 100%;">
             </div>
             <div class="item">
                 <img class="third-slide" src="img/3.jpg" alt="Third slide" style="height: 600px; width: 100%;">
@@ -43,11 +43,11 @@
                                 <div class="collection-item">
                                     <div class="padding-left-15
                                                 padding-right-15">
-                                        <h3><a href="collections/frontpage.html"><?php echo $row['Categorie'] ?></a></h3>
-                                        <a class="btn" href="collections/frontpage.html">Voir plus</a>
+                                        <h3><a href="categorie.php?categ=<?php echo $row['CodeCategorie'] ?>"><?php echo $row['Categorie'] ?></a></h3>
+                                        <a class="btn" href="categorie.php?categ=<?php echo $row['CodeCategorie'] ?>">Voir plus</a>
                                     </div>
-                                    <a href="collections/frontpage.html">
-                                        <img style="width: 300px; height: 250px;" src="<?php echo 'admin/img/' . $row['Image'] ?>" alt="Bulb Free demo
+                                    <a href="categorie.php?categ=<?php echo $row['CodeCategorie'] ?>">
+                                        <img style="height: 250px;" src="<?php echo 'admin/img/' . $row['Image'] ?>" alt="Bulb Free demo
                                                     collection 1" class="img-responsive">
                                     </a>
                                 </div>
@@ -78,18 +78,18 @@
                     <div class="product-widget">
                         <div class="col-md-3 col-sm-3 col-xs-12
                                     padding-clear">
-                            <a href="collections.html" target="_blank"><img src="admin/img/<?php echo $row['Image'] ?>" alt="" class="img-responsive
+                            <a href="categorie.php?categ=<?php echo $row['CodeCategorie'] ?>" target="_blank"><img style="height: 250px;;" src="admin/img/<?php echo $row['Image'] ?>" alt="" class="img-responsive
                                             banner-img"></a>
                             <div class="banner-desc">
                                 <h3 class="text-uppercase
-                                            margin-bottom-15"><a href="collections.html"><?php echo $row['Categorie'] ?></a></h3>
-                                <a href="collections.html" class="text-center text-uppercase">Voir plus</a>
+                                            margin-bottom-15"><a href="categorie.php?categ=<?php echo $row['CodeCategorie'] ?>"><?php echo $row['Categorie'] ?></a></h3>
+                                <a href="categorie.php?categ=<?php echo $row['CodeCategorie'] ?>" class="text-center text-uppercase">Voir plus</a>
                             </div>
                         </div>
 
                         <?php
                         $categ = $row['CodeCategorie'];
-                        $sql = "SELECT * FROM t_produit WHERE CodeCategorie=$categ ORDER BY Counter DESC LIMIT 3";
+                        $sql = "SELECT * FROM t_produit WHERE CodeCategorie=$categ ORDER BY Counter and CodeProduit DESC LIMIT 3";
                         $prod = $app->fetchPrepared($sql);
                         foreach ($prod as $row) {
                         ?>
@@ -99,7 +99,7 @@
                                 <div class="paira-product product">
                                     <a href="products/free-demo-product-name-1.html">
                                         <img src="admin/img/<?php echo $row['Photo'] ?>" class="paira-product-image
-                                                img-responsive" style="height: 300px; width: 100%;">
+                                                img-responsive" style="height: 250px;">
                                     </a>
 
                                     <div class="product-hover">

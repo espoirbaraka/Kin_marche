@@ -60,9 +60,9 @@
                                 <a data-toggle="dropdown" href="#" class="margin-right-10"><i class="fa
                                             fa-search"></i></a>
                                 <ul class="dropdown-menu">
-                                    <form class="navbar-form" action="https://bulb-free-responsive-theme.myshopify.com/search">
+                                    <form class="navbar-form" method="GET" action="search.php?search=">
                                         <div class="form-group">
-                                            <input type="text" name="q" class="form-control" placeholder="Search" value="">
+                                            <input type="text" name="search" class="form-control" placeholder="Rechercher un produit" value="">
                                         </div>
                                         <button type="submit"><i class="fa
                                                     fa-search"></i></button>
@@ -92,7 +92,7 @@
                                 </div>
                                 <div id="navbar-collapse" class="navbar-collapse collapse">
                                     <ul class="nav navbar-nav text-center">
-                                        <li class="active">
+                                        <li>
                                             <a href="index.php">Acceuil</a>
                                         </li>
 
@@ -105,7 +105,7 @@
 
 
                                         <li class="">
-                                            <a href="blogs/news.html">Blog</a>
+                                            <a href="#">Blog</a>
                                         </li>
 
 
@@ -113,7 +113,7 @@
 
 
                                         <li class="">
-                                            <a href="pages/contact.html">Contactez nous</a>
+                                            <a href="contact.php">Contactez nous</a>
                                         </li>
 
 

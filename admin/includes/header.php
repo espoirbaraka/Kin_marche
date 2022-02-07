@@ -38,7 +38,7 @@
               <li class="user-footer">
                 
                 <div class="pull-right">
-                  <a href="../manager/logout.php" class="btn btn-default btn-flat">Se deconnecter</a>
+                  <a href="logout.php" class="btn btn-default btn-flat">Se deconnecter</a>
                 </div>
               </li>
             </ul>

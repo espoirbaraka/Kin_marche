@@ -126,6 +126,21 @@ $(function(){
 });
 
 </script>
+<script>
+    $(function() {
+        var url = window.location;
+
+        $('ul.sidebar-menu li a').filter(function() {
+            return this.href == url;
+        }).parent().addClass('active');
+
+
+        $('li.nav-parent').filter(function() {
+            return this.href == url;
+        }).addClass('active');
+
+    });
+</script>
 </body>
 
 <!-- Mirrored from adminlte.io/themes/AdminLTE/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Sep 2021 10:10:11 GMT -->
